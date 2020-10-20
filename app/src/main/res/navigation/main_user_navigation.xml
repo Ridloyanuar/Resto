@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/main_navigation"
+    app:startDestination="@id/menuFragment">
+
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="org.ridlo.resto.fragment.MenuFragment"
+        android:label="MenuFragment" />
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="org.ridlo.resto.fragment.HistoryFragment"
+        android:label="HistoryFragment" />
+    <fragment
+        android:id="@+id/userFragment"
+        android:name="org.ridlo.resto.fragment.UserFragment"
+        android:label="UserFragment" />
+</navigation>

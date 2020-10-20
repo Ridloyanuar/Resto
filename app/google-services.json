@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "281077574201",
+    "firebase_url": "https://resto-2c494.firebaseio.com",
+    "project_id": "resto-2c494",
+    "storage_bucket": "resto-2c494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281077574201:android:fb427847800072c432bbe8",
+        "android_client_info": {
+          "package_name": "org.ridlo.resto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281077574201-gra8vqr5hhjutnnacg6g5p49rtojnhc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5TGaT7uTU102yKkvbuu7eqd_NzeDzaSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281077574201-gra8vqr5hhjutnnacg6g5p49rtojnhc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
